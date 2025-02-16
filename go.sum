@@ -1,6 +1,8 @@
 github.com/ckdcowster/dog v0.0.0-20250213213203-5ffd53d074d8 h1:LrbWR4QLjFKptoHBnml4QuDprrMaQHGiciIb97VSUAk=
 github.com/ckdcowster/dog v0.0.0-20250213213203-5ffd53d074d8/go.mod h1:2T3bUEocOjDE7htor0J1g/9ldcExNlBg0ahRacAk9UM=
-github.com/ckdcowster/puppy v0.0.0-20250213115734-e8ef061de69c h1:/SQGkj4mATcHaa+BjpFDLBj6afkktdz594O9S3mSa5o=
-github.com/ckdcowster/puppy v0.0.0-20250213115734-e8ef061de69c/go.mod h1:kFQHs+8y0kS40E2Drku5EAFQ1RGr7QaxbzPR90JZ9dk=
-github.com/ckdcowster/puppy v0.0.0-20250214071152-f05a0cf6703d h1:1fpXR8UiIspbZ3Y6dcM1+IcOU2wXq+SB4Ck4XpAJUXA=
-github.com/ckdcowster/puppy v0.0.0-20250214071152-f05a0cf6703d/go.mod h1:oOTULDtGFVeVSOD1VHGdqzcc3NCnWZ5BZ9Hn4kGB8uQ=
+github.com/ckdcowster/puppy v1.0.0 h1:98qeEjT2HeXKC8LIObCF1/09YSSE35Eo7qh8Nk+3KMw=
+github.com/ckdcowster/puppy v1.0.0/go.mod h1:oOTULDtGFVeVSOD1VHGdqzcc3NCnWZ5BZ9Hn4kGB8uQ=
+github.com/ckdcowster/puppy v1.2.0 h1:1vZ7nk2i1PVsYfR6sN1mEgxpfVO3kkfMFgk+umG7nOM=
+github.com/ckdcowster/puppy v1.2.0/go.mod h1:oOTULDtGFVeVSOD1VHGdqzcc3NCnWZ5BZ9Hn4kGB8uQ=
+github.com/ckdcowster/puppy v1.3.0 h1:+Qiqe2pkyr7anxBw2BUe9iTJUeWpPNRjHZTDkWvD0MI=
+github.com/ckdcowster/puppy v1.3.0/go.mod h1:oOTULDtGFVeVSOD1VHGdqzcc3NCnWZ5BZ9Hn4kGB8uQ=
